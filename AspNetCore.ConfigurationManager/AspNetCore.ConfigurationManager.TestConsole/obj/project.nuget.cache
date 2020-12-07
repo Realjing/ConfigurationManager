@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "42QGWd+rRItH0tGpRdj0rSZRiH3fcPsGsi5Wsf/G8SE5kHg+2Hv1X1RCeUplkHOwmLLvDOkBt3VFjuq6n84L1w==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\vs_workspace\\Components\\ConfigurationManager\\AspNetCore.ConfigurationManager\\AspNetCore.ConfigurationManager.TestConsole\\AspNetCore.ConfigurationManager.TestConsole.csproj",
+  "expectedPackageFiles": [
+    "D:\\wwwroot\\iis\\nuget\\Packages\\aspnetcore.configurationmanager\\5.0.0\\aspnetcore.configurationmanager.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

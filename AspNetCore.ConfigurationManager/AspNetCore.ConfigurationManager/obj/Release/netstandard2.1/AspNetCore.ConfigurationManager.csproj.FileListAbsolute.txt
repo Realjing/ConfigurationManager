@@ -1,0 +1,9 @@
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\bin\Release\netstandard2.1\AspNetCore.ConfigurationManager.deps.json
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\bin\Release\netstandard2.1\AspNetCore.ConfigurationManager.dll
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\bin\Release\netstandard2.1\AspNetCore.ConfigurationManager.pdb
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\obj\Release\netstandard2.1\AspNetCore.ConfigurationManager.AssemblyInfoInputs.cache
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\obj\Release\netstandard2.1\AspNetCore.ConfigurationManager.AssemblyInfo.cs
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\obj\Release\netstandard2.1\AspNetCore.ConfigurationManager.csproj.CoreCompileInputs.cache
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\obj\Release\netstandard2.1\AspNetCore.ConfigurationManager.dll
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\obj\Release\netstandard2.1\AspNetCore.ConfigurationManager.pdb
+D:\Developer\vs_workspace\自己的代码\AspNetCore.Components\AspNetCore.ConfigurationManager\obj\Release\netstandard2.1\AspNetCore.ConfigurationManager.csprojAssemblyReference.cache

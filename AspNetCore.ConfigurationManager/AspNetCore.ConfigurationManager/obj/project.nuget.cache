@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "+miwN8JpuWxr54/71SEOny1CvxvCw/+9MdQ8bpZSA5oQH6omkOepFlaH8DoTB1qkIoHTXqfzPpPsfMY5eRlNkg==",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\vs_workspace\\Components\\ConfigurationManager\\AspNetCore.ConfigurationManager\\AspNetCore.ConfigurationManager\\AspNetCore.ConfigurationManager.csproj",
+  "expectedPackageFiles": [
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "D:\\wwwroot\\iis\\nuget\\Packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
